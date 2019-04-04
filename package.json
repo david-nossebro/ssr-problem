@@ -1,0 +1,28 @@
+{
+  "name": "gatsby-ssr-problem",
+  "private": true,
+  "description": "A simple example of a problem we have with ssr",
+  "version": "0.1.0",
+  "author": "Kyle Mathews <david.berg@gmail.com>",
+  "dependencies": {
+    "gatsby": "^2.3.5",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "serve": "gatsby serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/david-nossebro/ssr-problem.git"
+  }
+}
